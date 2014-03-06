@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/holonomy/validationw",
   "peerDependencies": {
-    "backbonew": "*",
-    "bookshelfw": "*"
+    "backbonew": "git://github.com/holonomy/backbonew",
+    "bookshelfw": "git://github.com/holonomy/bookshelfw"
   },
   "dependencies": {
     "underscore": "^1.6.0",
