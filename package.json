@@ -1,7 +1,7 @@
 {
-  "name": "validationw",
+  "name": "ciab-validation",
   "version": "0.0.0",
-  "description": "validation wrapper for backbone/bookshelf",
+  "description": "coopinabox validation wrapper for backbone/bookshelf",
   "main": "server.js",
   "browser": "client.js",
   "scripts": {
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/holonomy/validationw.git"
+    "url": "git://github.com/coopinabox/validation.git"
   },
   "author": "",
   "license": "AGPLv3",
   "bugs": {
-    "url": "https://github.com/holonomy/validationw/issues"
+    "url": "https://github.com/coopinabox/validation/issues"
   },
-  "homepage": "https://github.com/holonomy/validationw",
+  "homepage": "https://github.com/coopinabox/validation",
   "peerDependencies": {
-    "backbonew": "git://github.com/holonomy/backbonew",
-    "bookshelfw": "git://github.com/holonomy/bookshelfw"
+    "ciab-backbone": "^1.1.0",
+    "ciab-bookshelf": "^0.6.8"
   },
   "dependencies": {
     "underscore": "^1.6.0",
