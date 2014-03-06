@@ -3,7 +3,7 @@
 // add validation to backbone
 
 var _ = require('underscore');
-var bb = require('backbonew');
+var bb = require('ciab-backbone');
 var validation = require('backbone-validation');
 _.extend(bb.Model.prototype, validation.mixin);
 
