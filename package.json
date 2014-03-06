@@ -1,0 +1,28 @@
+{
+  "name": "validationw",
+  "version": "0.0.0",
+  "description": "validation wrapper for backbone/bookshelf",
+  "main": "server.js",
+  "browser": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/holonomy/validationw.git"
+  },
+  "author": "",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/holonomy/validationw/issues"
+  },
+  "homepage": "https://github.com/holonomy/validationw",
+  "peerDependencies": {
+    "backbonew": "*",
+    "bookshelfw": "*"
+  },
+  "dependencies": {
+    "underscore": "^1.6.0",
+    "backbone-validation": "^0.9.1"
+  }
+}
