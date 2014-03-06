@@ -1,6 +1,6 @@
 {
   "name": "ciab-validation",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "description": "coopinabox validation wrapper for backbone/bookshelf",
   "main": "server.js",
   "browser": "client.js",
